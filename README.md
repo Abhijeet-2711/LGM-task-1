@@ -7,4 +7,4 @@ IDE used: VS Code
 
 Languages: HTML, CSS, JavaScript
 
-Website Link: https://github.com/Abhijeet-2711/LGM-task-1.git
+Website Link: http://127.0.0.1:5500/index.html
