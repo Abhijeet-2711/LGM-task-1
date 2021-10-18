@@ -7,4 +7,4 @@ IDE used: VS Code
 
 Languages: HTML, CSS, JavaScript
 
-Website Link: https://srblgmvipt1.netlify.app
+Website Link: https://github.com/Abhijeet-2711/LGM-task-1.git
